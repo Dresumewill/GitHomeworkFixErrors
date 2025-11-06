@@ -6,7 +6,7 @@
 
 ## 2. What is JavaScript?
 
-JavaScript is a high-level, interpreted programming language that runs in web browsers.
+JavaScript is a high-level, interpreted programming language that runs in web browsers. It's main job is to run in a web browser to change or update HTML and CSS in real-time.
 
 ## 3. What three problems does Git & GitHub solve?
 
